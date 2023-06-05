@@ -5,7 +5,7 @@
 
 Инструкция для запуска:
 
-- $ - `git clone `
+- $ - `git clone https://github.com/dastanabeuov/NASA.git`
 - $ - `cd NASA`
 - $ - `ruby example_use.rb`
 
